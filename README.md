@@ -63,7 +63,7 @@ The app follows a classic Laravel MVC structure: task records are stored in MySQ
 
 4. **Run fresh database migrations**
    ```bash
-   php artisan migrate:fresh
+   php artisan migrate
    ```
 
 5. **Start the development server**
