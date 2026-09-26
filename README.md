@@ -86,5 +86,17 @@ The app follows a classic Laravel MVC structure: task records are stored in MySQ
 |-----------|------------|
 | ![Dashboard view](screenshots/dashboard.png) | ![Add/Edit task modal](screenshots/task-modal.png) |
 
-## Author
+## SCREENSHOTS
+<img width="1896" height="944" alt="image" src="https://github.com/user-attachments/assets/944b0172-9ce1-48d0-acca-0efba843e797" />
+<img width="1909" height="945" alt="image" src="https://github.com/user-attachments/assets/914b9a00-590f-48c2-b167-3a85ed285bd6" />
+<img width="1907" height="948" alt="image" src="https://github.com/user-attachments/assets/35a8002a-c17b-4098-a189-8a10d5673b7e" />
+<img width="226" height="446" alt="image" src="https://github.com/user-attachments/assets/2c31e0ad-351a-486f-9140-ff2bce86127a" />
+<img width="426" height="472" alt="image" src="https://github.com/user-attachments/assets/9b558a8b-7e7f-4f97-833d-28a032637874" />
+<img width="1909" height="939" alt="image" src="https://github.com/user-attachments/assets/c7d0ce5c-7001-4183-90ff-affbdbdea777" />
+
+
+
+
+
+
 
