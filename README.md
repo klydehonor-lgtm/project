@@ -93,6 +93,8 @@ The app follows a classic Laravel MVC structure: task records are stored in MySQ
 <img width="226" height="446" alt="image" src="https://github.com/user-attachments/assets/2c31e0ad-351a-486f-9140-ff2bce86127a" />
 <img width="426" height="472" alt="image" src="https://github.com/user-attachments/assets/9b558a8b-7e7f-4f97-833d-28a032637874" />
 <img width="1909" height="939" alt="image" src="https://github.com/user-attachments/assets/c7d0ce5c-7001-4183-90ff-affbdbdea777" />
+<img width="1127" height="251" alt="image" src="https://github.com/user-attachments/assets/8d02a960-9d7a-45b0-8fac-a4ebd233a569" />
+
 
 
 
