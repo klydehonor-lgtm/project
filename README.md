@@ -15,7 +15,9 @@ James Klyde N. Honor
 
 BSIT2 — SEC-1
 
-# Database Used: MySQL
+# Database Used: 
+
+MySQL
 
 ---
 
