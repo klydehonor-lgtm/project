@@ -2,14 +2,20 @@
 
 A lightweight, full-stack task management dashboard built with **Laravel** and **MySQL**. It lets a user create, track, and update tasks through a single-page style dashboard — complete with live stats, search, priority filtering, and status toggling — without a page reload for most actions.
 
-**Project Code:** WST21-PM-2026-SF
+# Project Code:
 
-**Student Name:** James Klyde N. Honor
+WST21-PM-2026-SF
+
+# Student Name: 
+
+James Klyde N. Honor
 
 
-**Course & Year:** BSIT2 — SEC-1
+# Course & Year: 
 
-**Database Used:** MySQL
+BSIT2 — SEC-1
+
+# Database Used: MySQL
 
 ---
 
